@@ -1,0 +1,2 @@
+git branch- bta dega ki kaunsi branches hain aur agr branches add nhi hui toh command use hogi
+git switch --track origin/feature
